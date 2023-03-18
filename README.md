@@ -11,6 +11,10 @@ To run this project, you will need to have the following installed:
 - webpack
 - workbox
 
+## Screenshot
+
+![jate](https://user-images.githubusercontent.com/113379247/226123592-b863cd83-af67-4a1e-b2d8-b227fb315ae5.PNG)
+
 ## Installation
 
 To install this project, follow these steps:
